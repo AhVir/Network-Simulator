@@ -2,6 +2,8 @@
 
 This guide explains how to run ns-3 simulations (example: 5 moving nodes) inside a Conda environment.
 
+[sahmed](https://chatgpt.com/c/68a5b633-bc88-8332-af84-95e806af7aae)
+
 ---
 
 ## 1. Activate Conda Environment
